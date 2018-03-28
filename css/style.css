@@ -48,7 +48,7 @@ Developer @GA in NYC
 body {
   color: #f0efef;
   font-size: 26px;
-  line-height: 1.4;
+  line-height: 1.5;
   color: #606161;
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   font-weight: 300;
@@ -74,7 +74,7 @@ a {
 
 header {
   background: #033048;
-  padding: 25px 0;
+  padding: 36px 0;
   overflow: hidden;
 }
 header .logo {
@@ -110,11 +110,11 @@ header nav ul li a {
   color: #fff;
 }
 #hero h2 {
-  font-size: 48px;
+  font-size: 80px;
   text-align: center;
   color: #fff;
   margin: 120px 0 90px;
-  font-weight: 600;
+  font-weight: 800;
 }
 .button {
   border-radius: 5px;
